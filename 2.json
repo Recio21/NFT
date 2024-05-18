@@ -1,5 +1,6 @@
 {
 "name":"Atletico del Madrid",
   "description":"Token Atletico del Madrid",
-  "image":"https://github.com/Recio21/NFT/blob/main/Atletico.jpg"
+  "image": "https://raw.githubusercontent.com/Recio21/NFT/main/Atletico.jpg" 
+
 }
